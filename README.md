@@ -26,3 +26,4 @@ Use this repository to practice with Git.
 + [Git for Beginners](https://medium.com/chaya-thilakumara/an-introduction-to-git-for-beginners-c97e701cecf9)
 + [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 + [A visual guide to Git](https://marklodato.github.io/visual-git-guide/index-en.html)
++ [Visualize Git Log Tree](https://tech.serhatteker.com/post/2021-02/git-log-tree)
