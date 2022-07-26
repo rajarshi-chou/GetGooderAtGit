@@ -9,9 +9,9 @@ Use this repository to practice with Git.
 **Note:** Git bash (command line interface) is recommended rather than the Git GUI (Graphical User Interface).
 
 ## The plan:
-  1. Git (version control on your local computer)
-  1. GitHub (version control in the cloud via the web interface)
-  1. Git+GitHub (combining the two)
+  1. Git (version control on your local computer) :confused:
+  1. GitHub (version control in the cloud via the web interface) :astonished:
+  1. Git+GitHub (combining the two) :scream:
 
 ## Link to minihackathon instructions:
 [TNMDCollaborationWeek](https://github.com/TNMDCollaborationWeek/TNMDCollaborationWeek)
