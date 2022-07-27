@@ -1,7 +1,7 @@
 # GetGooderAtGit - Experimenting with Git/GitHub :exploding_head:
 Use this repository to practice with Git.
 
-## The prerequisites (see link to instructions below for more details):
+## The prerequisites (see [link to instructions](https://github.com/TNMDCollaborationWeek/TNMDCollaborationWeek)) below for more details):
   1. [Install Git on your computer](https://git-scm.com/downloads) and make sure you can launch Git bash.
   1. Watch [Learn Git in 15 minutes](https://www.youtube.com/watch?v=USjZcfj8yxE).
   1. **Optional:** install the free [Visual Studio Code editor](https://code.visualstudio.com/download).
