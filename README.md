@@ -25,7 +25,7 @@ Use this repository to practice with Git.
 ## Essential stuff:
 [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-## Basic Git/GitHub resources:
+## Git/GitHub resources:
 + [Git for Beginners](https://medium.com/chaya-thilakumara/an-introduction-to-git-for-beginners-c97e701cecf9)
 + [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 + [A visual guide to Git](https://marklodato.github.io/visual-git-guide/index-en.html)
