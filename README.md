@@ -32,4 +32,4 @@ Use this repository to practice with Git.
 + [Visualize Git Log Tree](https://tech.serhatteker.com/post/2021-02/git-log-tree) (a useful command is `git log --oneline --decorate --graph --all`)
 
 ## Windows specific resources:
-+ [Git GUI tutorial](https://matthew-brett.github.io/pydagogue/git_gui_windows.html)
++ [Working with Git GUI](https://www.geeksforgeeks.org/working-on-git-for-gui/)
