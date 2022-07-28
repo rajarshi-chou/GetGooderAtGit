@@ -30,3 +30,6 @@ Use this repository to practice with Git.
 + [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 + [A visual guide to Git](https://marklodato.github.io/visual-git-guide/index-en.html)
 + [Visualize Git Log Tree](https://tech.serhatteker.com/post/2021-02/git-log-tree) (a useful command is `git log --oneline --decorate --graph --all`)
+
+## Windows specific resources:
++ [Git GUI tutorial](https://matthew-brett.github.io/pydagogue/git_gui_windows.html)
