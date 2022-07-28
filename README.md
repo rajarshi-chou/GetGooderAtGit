@@ -23,6 +23,9 @@ Use this repository to practice with Git.
 + [GitHub Markdown instructions](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 + [Online Markdown Editor](https://dillinger.io/)
 
+## Basic command line commands:
+[Shell commands](https://whatbox.ca/wiki/Bash_Shell_Commands)
+
 ## Essential stuff:
 [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
