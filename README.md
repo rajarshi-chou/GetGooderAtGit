@@ -37,3 +37,10 @@ Use this repository to practice with Git.
 
 ## Windows specific resources:
 + [Working with Git GUI](https://www.geeksforgeeks.org/working-on-git-for-gui/)
+
+# Resources for Challenges
+
+## Challenge 1
+
+Laurent's wiki page with links to GitHub repositories managed by National Statistical Offices.
+https://github.com/laurentlefort/data-landscape/wiki/Repositories
